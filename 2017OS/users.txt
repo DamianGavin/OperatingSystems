@@ -1,0 +1,12 @@
+====== User Details ======
+Name: james
+Address: lkj
+Password: 0000
+Age: 88
+Weight(kg): 77
+Height(meters): 66
+Recent Activity: 2
+Duration(mins): 45
+Meal Record: 3
+***************************
+***************************

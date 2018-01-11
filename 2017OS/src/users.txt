@@ -1,0 +1,36 @@
+====== User Details ======
+Name: jhfd
+Address: jdfl
+Password: 0000
+Age: 22
+Weight(kg): 33
+Height(meters): 44
+Recent Activity: 2
+Duration(mins): 34
+Meal Record: 3
+***************************
+***************************
+====== User Details ======
+Name: peter
+Address: galway
+Password: 0000
+Age: 22
+Weight(kg): 33
+Height(meters): 11
+Recent Activity: 2
+Duration(mins): 12
+Meal Record: 1
+***************************
+***************************
+====== User Details ======
+Name: Joe
+Address: Naas
+Password: 0000
+Age: 22
+Weight(kg): 33
+Height(meters): 44
+Recent Activity: 1
+Duration(mins): 23
+Meal Record: 2
+***************************
+***************************
